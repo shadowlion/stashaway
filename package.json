@@ -26,7 +26,6 @@
 	},
 	"dependencies": {
 		"@mozilla/readability": "^0.6.0",
-		"@supabase/supabase-js": "^2.50.3",
 		"jsdom": "^26.1.0"
 	}
 }
